@@ -1,0 +1,6 @@
+@TalentoTrack_API_HostAddress = http://localhost:5225
+
+GET {{TalentoTrack_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

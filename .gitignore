@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TalentoTrack.Common/bin/Debug/net8.0
+/TalentoTrack.Common/obj
+/TalentoTrack.Dao/bin/Debug/net8.0
+/TalentoTrack.Dao/obj
+/TalentoTrack.Service/bin/Debug/net8.0
+/TalentoTrack.Service/obj
+/TalentoTrack_API/bin/Debug/net8.0
+/TalentoTrack_API/obj
